@@ -1,2 +1,2 @@
 # todo-list-project
-A responsive To-do application mad with JavaScript.
+A To-Do app with simple UI
